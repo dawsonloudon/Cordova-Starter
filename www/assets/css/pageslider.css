@@ -1,0 +1,85 @@
+#menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    overflow: hidden;
+    background: #b95812;
+}
+
+#container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-transition: all .35s ease;
+    transition: all .35s ease;
+    background: #fcefe1;
+}
+
+#container.show-menu {
+    -webkit-transform: translate3d(250px, 0, 0);
+    transform: translate3d(250px, 0, 0);
+}
+
+.page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    text-align: left;
+    opacity: 0;
+}
+
+.page-wrapper {
+    width: 92%;
+    margin: 0 auto;
+}
+
+.page.left {
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+    opacity: 0;
+}
+
+.page.center {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+}
+
+.page.right {
+    -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+    opacity: 0;
+}
+
+.page.up {
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+    opacity: 0;
+}
+
+.page.down {
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+    opacity: 0;
+}
+
+.page.menu {
+    -webkit-transform: translate3d(100%, 100%, 0);
+    transform: translate3d(100%, 100%, 0);
+}
+
+.page.transition {
+    -webkit-transition: all .35s ease;
+    transition: all .35s ease;
+}

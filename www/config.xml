@@ -1,0 +1,11 @@
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="SplashScreen" value="splash" />
+    <preference name="SplashScreenDelay" value="20000" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="backgroundColor" value="0x00000000" />
+    <preference name="imeOptions" value="actionDone" />
+    <preference name="exit-on-suspend" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="orientation" value="portrait" />
