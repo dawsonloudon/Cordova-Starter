@@ -1,7 +1,7 @@
 Cordova Starter
 ===========
 
-Replace the default www folder with this and start building your Cordova/PhoneGap app!
+Replace the default www folder with this and start building your Cordova app!
 
 Get Started
 ===========
@@ -34,3 +34,4 @@ Libraries
 - fastclickjs v1.0.1
 - jquery v2.1.0
 - handlebarsjs v1.3.0
+- Topcoat v0.8.0 (mobile-light)

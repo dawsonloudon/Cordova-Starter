@@ -2,61 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33b7ca50-f36f-4c54-b1ba-af09889acad0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Black.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-ExtraLight.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceCodePro-Semibold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Black.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-BlackIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-BoldIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-ExtraLight.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-ExtraLightIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-It.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-LightIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-Semibold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/SourceSansPro-SemiboldIt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/img/place_holder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/search-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/search-bg2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/spinner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/spinner2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/font/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/back_light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/call.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/chat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/email.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/lib/fastclick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/css/global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/lib/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/next.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/next_blue.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/css/pageslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/lib/pageslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/search.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/search_bw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/search_dark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/img/search_light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/starter.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/css/topcoat-mobile-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/assets/topcoat/css/topcoat-mobile-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/views.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="starter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2715">
+            <state vertical-scroll-proportion="2.2413793" vertical-offset="0" max-vertical-offset="2715">
               <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5633047" vertical-offset="0" max-vertical-offset="932">
-              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            <state vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="630">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -120,8 +66,8 @@
         <option value="$PROJECT_DIR$/www/js/lib/fastclick.js" />
         <option value="$PROJECT_DIR$/www/js/lib/jquery.js" />
         <option value="$PROJECT_DIR$/www/js/lib/pageslider.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -441,18 +387,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2715">
-          <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
+        <state vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5633047" vertical-offset="0" max-vertical-offset="932">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state vertical-scroll-proportion="2.2413793" vertical-offset="0" max-vertical-offset="2715">
+          <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
           <folding />
         </state>
       </provider>
