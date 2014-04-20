@@ -35,3 +35,8 @@ Libraries
 - jquery v2.1.0
 - handlebarsjs v1.3.0
 - Topcoat v0.8.0 (mobile-light)
+
+Docs
+===========
+
+[Wiki](https://github.com/dawsonloudon/Cordova-Starter/wiki)
