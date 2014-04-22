@@ -39,4 +39,4 @@ Libraries
 Docs
 ===========
 
-[Wiki](https://github.com/dawsonloudon/Cordova-Starter/wiki)
+See the [Wiki](https://github.com/dawsonloudon/Cordova-Starter/wiki) for documentation and examples

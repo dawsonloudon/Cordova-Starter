@@ -46,11 +46,29 @@ var app = {
             app.hideSplashScreen();
         }
     },
+    checkConnection: function() {
+        var networkState = navigator.connection.type;
+
+        var states = {};
+        states[Connection.UNKNOWN]  = false;
+        states[Connection.ETHERNET] = true;
+        states[Connection.WIFI]     = true;
+        states[Connection.CELL_2G]  = true;
+        states[Connection.CELL_3G]  = true;
+        states[Connection.CELL_4G]  = true;
+        states[Connection.CELL]     = true;
+        states[Connection.NONE]     = false;
+        global.connectionStatus = states[networkState];
+        app.connectionStatus(global.connectionStatus);
+    },
     online: function() {
         //This happens if your app is already launched and gains network connection
+        global.lostConnection = false;
+        app.checkConnection();
     },
     offline: function() {
         //This happens if your app is already launched and loses network connection
+        global.lostConnection = true;
     },
     hideSplashScreen: function() {
         setTimeout(function() {
