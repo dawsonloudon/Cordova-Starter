@@ -23,8 +23,7 @@ Get Started
 
 7. copy www from Cordova-Starter into your project folder
 
-8. Copy contents of www/config.xml into project's config.xml
-   rm -f www/config.xml
+8. Copy contents of www/config.xml into project's config.xml and then `rm -f www/config.xml`
 
 9. cordova build (or) cordova prepare ios (or) cordova run android
 
