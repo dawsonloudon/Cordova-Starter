@@ -93,27 +93,9 @@ var app = {
 };
 
 //primary use case: call an app.router method after collecting results from a database query. use the router to choose display based on number of results returned
-app.router = {
-/*
-    //EXAMPLE router method receiving results from DB query
-    searchUsers: function(tx, results) {
-        var len = results.rows.length;
-        if(len > 1) {
-            for(var i=0; i< len; i++) {
-                cache.Users[i] = results.rows.item(i);
-            }
-            app.slider.slidePageFrom(new views.usersList(app.tpl.usersList), 'right');
-        }
-        else if(len == 1) {
-            cache.User = results.row.item(0);
-            app.slider.slidePageFrom(new views.singleUser(app.tpl.singleUser), 'right');
-        }
-        else {
-            alert('No Results');
-        }
-    }
-*/
-};
+    app.router = {
+
+    };
 
 /* APPLICATION LOCAL STORAGE */
 app.store = {

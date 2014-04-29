@@ -9,7 +9,10 @@ views.default = function(template) {
     }
 
     this.render = function() {
-        this.el.html(template());
+        var parts = {
+            title: 'Default View'
+        };
+        this.el.html(template(parts));
         return this;
     }
 
@@ -26,7 +29,10 @@ views.noConnection = function(template) {
     }
 
     this.render = function() {
-        this.el.html(template());
+        var parts = {
+            title: 'No Connection Detected'
+        };
+        this.el.html(template(parts));
         return this;
     }
 
