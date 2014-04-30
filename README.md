@@ -16,10 +16,10 @@ Get Started
 
 5. Next add the required plugins:
 
-    cordova plugin add org.apache.cordova.device
-    cordova plugin add org.apache.cordova.network-information
-    cordova plugin add org.apache.cordova.dialogs
-    cordova plugin add org.apache.cordova.splashscreen
+      cordova plugin add org.apache.cordova.device
+      cordova plugin add org.apache.cordova.network-information
+      cordova plugin add org.apache.cordova.dialogs
+      cordova plugin add org.apache.cordova.splashscreen
 
 6. delete www
 
