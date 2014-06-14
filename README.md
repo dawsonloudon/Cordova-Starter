@@ -36,8 +36,8 @@ Get Started
 Libraries
 ===========
 
-- fastclickjs v1.0.1
-- jquery v2.1.0
+- fastclickjs v1.0.2
+- jquery v2.1.1
 - handlebarsjs v1.3.0
 - Topcoat v0.8.0 (mobile-light)
 
