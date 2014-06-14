@@ -118,8 +118,8 @@ app.store = {
 
 app.db = {
     initialize: function() {
-        global.db = window.openDatabase('appdb','1.0','AppDB',5000000);
-        global.db.transaction(app.db.createDB,app.db.errorCB,app.db.successCB);
+        global.db = window.openDatabase('appdb', '1.0', 'AppDB', 5000000);
+        global.db.transaction(app.db.createDB, app.db.errorCB, app.db.successCB);
     },
     createDB: function(tx) {
 
